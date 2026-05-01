@@ -34,7 +34,7 @@ Python | Pandas | NumPy | Seaborn | Matplotlib
 
 * `data/` → dataset
 * `notebook/` → analysis notebook
-* `images/` → visualizations
+
 
 ---
 
